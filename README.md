@@ -1,4 +1,4 @@
-# Cracking-the-Coding-Interview
+# Cracking the Coding Interview
 
 Disclaimer: This notebook collects all exercises from the sixth edition of the book "Cracking the code interview" by Gayle Laakmann McDowell for the sole purpose of personal investigation. All rights belong to the author.
 
